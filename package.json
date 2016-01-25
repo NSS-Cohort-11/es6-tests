@@ -1,0 +1,27 @@
+{
+  "name": "es6-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NSS-Cohort-11/es6-tests.git"
+  },
+  "author": "Scott Humphries <npm@sscotth.io> (https://sscotth.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NSS-Cohort-11/es6-tests/issues"
+  },
+  "homepage": "https://github.com/NSS-Cohort-11/es6-tests#readme",
+  "keywords": [],
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  }
+}
